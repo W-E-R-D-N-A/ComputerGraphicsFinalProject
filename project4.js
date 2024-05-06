@@ -1,4 +1,3 @@
-
 var program;
 var canvas;
 var gl;
