@@ -1,6 +1,4 @@
-// Sam Smallman, project 4. Part 2 version
-//To do: add color to shapes, add select textures, make lighting better,
-//part 3, etc.
+
 var program;
 var canvas;
 var gl;
